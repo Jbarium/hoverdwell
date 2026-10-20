@@ -1,0 +1,6 @@
+id=hoverdwell
+name=HoverDwell
+version=v0.1.1-alpha
+versionCode=2
+author=Bariumana
+description=Hold a finger still above the screen to open a circular shortcut menu. Needs a touchscreen that reports hover.
