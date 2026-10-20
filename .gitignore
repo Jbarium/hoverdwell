@@ -1,7 +1,24 @@
-build/
-.gradle/
-.idea/
+# Build outputs
+/build/
+/.gradle/
+/.externalNativeBuild/
+/.cxx/
+/captures/
+
+# IDE files
+/.idea/
+/*.iml
+*.iml
+
+# Local configuration
 local.properties
+
+# Generated packages
 *.apk
 *.zip
+
+# OS files
+.DS_Store
+
+# Project-specific
 /dwell
